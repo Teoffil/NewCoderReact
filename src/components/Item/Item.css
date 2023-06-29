@@ -1,0 +1,15 @@
+.item-card {
+    max-width: 300px;
+    margin: 0 10px;
+    height: 550px;
+}
+
+.cardAltura {
+    margin-bottom: 20px;
+    position: relative; 
+}
+
+.card-button {
+    position: absolute;
+    bottom: 10px; 
+}
